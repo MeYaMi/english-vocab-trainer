@@ -81,7 +81,8 @@
 
 **Журнал ошибок** — ошибки с категориями, исправлениями и счётчиком «Верно подряд»:
 
-![Журнал ошибок в Notion](docs/images/error-log.png)
+![Журнал ошибок в Notion](docs/images/error-log.png<img width="1904" height="1618" alt="lesson-example" src="https://github.com/user-attachments/assets/55eeadae-e2e0-4e8b-94e5-c36949a6c596" />
+)
 
 ## Приватность
 
