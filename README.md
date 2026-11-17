@@ -1,4 +1,3 @@
-<img width="1600" height="841" alt="vocabulary-database" src="https://github.com/user-attachments/assets/bd416b0a-037d-489f-8742-9a0ee04ed639" />
 # English Vocabulary Trainer — скилл для Claude
 
 Скилл для Claude, который превращает ваш личный словарь в Notion в тренажёр английского. Claude
