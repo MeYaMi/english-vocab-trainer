@@ -1,3 +1,4 @@
+<img width="1600" height="841" alt="vocabulary-database" src="https://github.com/user-attachments/assets/bd416b0a-037d-489f-8742-9a0ee04ed639" />
 # English Vocabulary Trainer — скилл для Claude
 
 Скилл для Claude, который превращает ваш личный словарь в Notion в тренажёр английского. Claude
@@ -72,17 +73,15 @@
 ## Скриншоты
 
 **Словарь в Notion** — база «Английский словарь» со статусами, типами и датами тренировок:
-
-![База «Английский словарь» в Notion](docs/images/vocabulary-database.png)
+<img width="1600" height="841" alt="vocabulary-database" src="https://github.com/user-attachments/assets/e2b22e55-20ef-401e-84fc-d47f8e3223e3" />
 
 **Урок** — запуск набора «Полный урок» и первые задания:
+<img width="1904" height="1618" alt="lesson-example" src="https://github.com/user-attachments/assets/1b354ce9-6c00-47fb-8355-043db3790aac" />
 
-![Пример урока в чате с Claude](docs/images/lesson-example.png)
 
 **Журнал ошибок** — ошибки с категориями, исправлениями и счётчиком «Верно подряд»:
+<img width="1600" height="502" alt="error-log" src="https://github.com/user-attachments/assets/b4110911-fd49-43ee-9835-5af10c33e8a3" />
 
-![Журнал ошибок в Notion](docs/images/error-log.png<img width="1904" height="1618" alt="lesson-example" src="https://github.com/user-attachments/assets/55eeadae-e2e0-4e8b-94e5-c36949a6c596" />
-)
 
 ## Приватность
 
